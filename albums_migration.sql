@@ -12,3 +12,4 @@ drop table if exists albums;
         genre VARCHAR(128),
         PRIMARY KEY (id)
     );
+
