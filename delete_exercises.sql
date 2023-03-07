@@ -6,3 +6,4 @@ DELETE FROM albums WHERE genre = '%disco%';
 
 DELETE FROM albums WHERE artist = '%whitney houston%';
 SELECT * FROM albums;
+
